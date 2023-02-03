@@ -1,0 +1,139 @@
+* {
+  max-width: 700px;
+  margin: left;
+}
+
+
+/*body {
+    min-width: 500px;
+}*/
+
+div {
+  border-radius: 5px;
+}
+
+#Name{
+  border-top: thick;
+  border-bottom: thick;
+  border-color: blue;
+  color: blue;
+}
+
+
+.hr1{
+  border-top: thick;
+  border-bottom: thick;
+  border-color: blue;
+  color: blue;
+  background: blue;
+  width: auto;
+  height: 10;
+  border: 10px;
+  
+  size: 10;
+  
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  float: right;
+  width: 320px;
+  padding: 10px;
+  border: 5px solid black;
+  margin: 0;
+}
+
+hr{
+  border-top: thin;
+  border-bottom: thin;
+  border-color: blue;
+  color: blue;
+  background: blue;
+  width: auto;
+  height: 3;
+  border: 3;
+  
+  size: 3;
+  
+}
+
+.hr2{
+  color: blue;
+  height: 5px;
+}
+
+#header {
+  height: 40px;
+  width: 100%;
+  background-color: #ffffff;
+  position: fixed;
+  color:#001eff
+  z-index: 1;
+}
+
+#title {
+  margin-left: 3%;
+}
+
+h1{
+  color:blue
+  
+}
+
+
+
+.left {
+  height: 1000px;
+  width: 0px;
+  background-color: #eeeeee;
+  float: left;
+  position: fixed;
+}
+
+.right {
+  height: 1000px;
+  width: 0px;
+  background-color: #eeeeee;
+  float: right;
+  position: inherit;
+}
+
+.subheading {
+  display: inline-block;
+  margin-top: 6px;
+  margin-left: 55px;
+  width: 75%;
+  height: 1000px;
+}
+
+p,
+li {
+  font-family: 'Cormorant Garamond';
+}
+
+.head{
+  color:blue
+}
+
+.head {
+  font-size: 20px;
+}
+
+#name {
+  font-family: Sacramento;
+  float: right;
+  margin-top: 10px;
+  margin-right: 4%;
+  color:#001eff
+}
+
+a {
+  color: #001eff;
+  text-decoration: none;
+}
+
+
